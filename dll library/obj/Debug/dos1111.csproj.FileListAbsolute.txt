@@ -1,0 +1,12 @@
+C:\Users\madke\source\repos\dos1111\bin\Debug\dos1111.dll
+C:\Users\madke\source\repos\dos1111\bin\Debug\dos1111.pdb
+C:\Users\madke\source\repos\dos1111\obj\Debug\dos1111.csproj.AssemblyReference.cache
+C:\Users\madke\source\repos\dos1111\obj\Debug\dos1111.csproj.CoreCompileInputs.cache
+C:\Users\madke\source\repos\dos1111\obj\Debug\dos1111.dll
+C:\Users\madke\source\repos\dos1111\obj\Debug\dos1111.pdb
+C:\Users\Костя\source\repos\dos1111\bin\Debug\dos1111.dll
+C:\Users\Костя\source\repos\dos1111\bin\Debug\dos1111.pdb
+C:\Users\Костя\source\repos\dos1111\obj\Debug\dos1111.csproj.AssemblyReference.cache
+C:\Users\Костя\source\repos\dos1111\obj\Debug\dos1111.csproj.CoreCompileInputs.cache
+C:\Users\Костя\source\repos\dos1111\obj\Debug\dos1111.dll
+C:\Users\Костя\source\repos\dos1111\obj\Debug\dos1111.pdb
